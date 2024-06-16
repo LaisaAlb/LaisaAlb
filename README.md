@@ -2,6 +2,7 @@
 
 - 🔭 Hoje estou trabalhando com Desenvolvimento Front-End Jr.
 - 🌱 Estou estudando Desenvolvemento Web e suas AP
+- 👩🏻‍🎓 Graduanda em Ciências da Computação
 - 😄 Pronouns: Ela/Dela
 
 ## Tecnologia que tenho conhecimento
