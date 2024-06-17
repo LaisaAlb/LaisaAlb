@@ -1,6 +1,6 @@
 ## Olá! Me chamo Laísa Alb
 
-- 🔭 Hoje estou trabalhando com Desenvolvimento Front-End Jr.
+- 🔭 Hoje estou trabalhando como desenvolvedora Front-End Jr.
 - 🌱 Estou estudando Desenvolvemento Web e suas APIs
 - 👩🏻‍🎓 Graduanda em Ciências da Computação
 - 😄 Pronouns: Ela/Dela
