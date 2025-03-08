@@ -1,8 +1,8 @@
-<h2 align="left">Hello!! My name is Laísa!</h2>
+<h2 align="left">Olá usuário 👋🏻!! Me chamo Laísa!</h2>
 
 ###
 
-<p align="left">🔭 Today I'm working as a Front-End Jr. developer.<br>🌱 I'm studying Web Development and its APIs<br>👩🏻‍🎓 Computer Science Student<br>😄 Pronouns: She/Her</p>
+<p align="left">🔭 Sou desenvolvodora web.<br>🌱 Eu estou estudando desenvolvimento web e suas APIs<br>👩🏻‍🎓 Sou acadêmcia em Ciências da Computação<br>😄 Pronomes: Ela/Dela</p>
 
 ###
 
