@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🔭 Sou desenvolvodora web.<br>🌱 Eu estou estudando desenvolvimento web e suas APIs<br>👩🏻‍🎓 Sou acadêmcia em Ciências da Computação<br>😄 Pronomes: Ela/Dela</p>
+<p align="left">🔭 Sou desenvolvodora de software.<br>🌱 Estudo desenvolvimento web e suas APIs<br>👩🏻‍🎓 Sou acadêmcia em Ciências da Computação<br>😄 Pronomes: Ela/Dela</p>
 
 ###
 
