@@ -1,8 +1,8 @@
-<h2 align="left">Olá usuário 👋🏻!! Muito Prazer!</h2>
+<h2 align="left">Olá, usuário 👋🏻!! Muito prazer!</h2>
+<p align="left"> 🔭 Sou desenvolvedora de software. 🌱 Estudo desenvolvimento web e suas APIs <br>
+Sou Laísa, estudante de Ciências da Computação. Tenho como compromisso desenvolver interfaces intuitivas e fáceis de utilizar, garantindo acessibilidade ao usuário.
 
-###
-
-<p align="left">🔭 Sou desenvolvodora de software.<br>🌱 Estudo desenvolvimento web e suas APIs<br>👩🏻‍🎓 Sou acadêmcia em Ciências da Computação<br>😄 Pronomes: Ela/Dela</p>
+Além disso, minha missão é aproximar as pessoas da tecnologia, criando sites e aplicativos úteis para o seu dia a dia. 🚀✨ </p>
 
 ###
 
