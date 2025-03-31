@@ -2,8 +2,8 @@
 <p align="left"> Sou Laísa, estudante de Ciências da Computação. Tenho como compromisso desenvolver interfaces intuitivas e fáceis de utilizar, garantindo acessibilidade ao usuário.
 
 Além disso, minha missão é aproximar as pessoas da tecnologia, criando sites e aplicativos úteis para o seu dia a dia. 🚀✨ </p> <br>
-
- 🔭 Sou desenvolvedora de software. <br> 🌱 Estudo desenvolvimento web e suas APIs
+ 🔭 Sou desenvolvedora de software. <br> 
+ 🌱 Estudo desenvolvimento web e suas APIs
 
 ###
 
