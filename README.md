@@ -1,5 +1,5 @@
 <h2 align="left">Olá, usuário 👋🏻!! Muito prazer!</h2>
-<p align="left"> Sou Laísa, estudante de Ciências da Computação. Tenho como compromisso desenvolver interfaces intuitivas e fáceis de utilizar, garantindo acessibilidade ao usuário.
+<p align="left"> Sou Laísa, estudante de Ciências da Computação. Tenho o compromisso desenvolver interfaces intuitivas e fáceis de utilizar, garantindo acessibilidade ao usuário.
 
 Além disso, minha missão é aproximar as pessoas da tecnologia, criando sites e aplicativos úteis para o seu dia a dia. 🚀✨ </p>
  🔭 Sou desenvolvedora de software. <br> 
