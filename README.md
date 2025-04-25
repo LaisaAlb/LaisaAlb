@@ -1,8 +1,4 @@
-<h2 align="left">Olá, Muito Prazer!! 👋🏻<br><br>💡 Com 2 anos de experiência, crio soluções digitais que transformam ideias em interfaces acessíveis, rápidas e inovadoras.<br><br>📚 Apaixonada por tecnologia, meu foco é em desenvolvimento web, em especial,  front-end. Com isso, busco entregar a melhor experiência para o usuário e resultados agreguem valor ao mercado</h2>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<h6 align="left">Olá, Muito Prazer!! 👋🏻<br><br>💡 Com 2 anos de experiência, crio soluções digitais que transformam ideias em interfaces acessíveis, rápidas e inovadoras.<br><br>📚 Apaixonada por tecnologia, meu foco é em desenvolvimento web, em especial,  front-end. Com isso, busco entregar a melhor experiência para o usuário e resultados agreguem valor ao mercado</h6>
 
 ###
 
