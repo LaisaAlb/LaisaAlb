@@ -1,16 +1,8 @@
-<h2 align="left">Olá, usuário 👋🏻!! Muito prazer!</h2>
-<p align="left"> Sou Laísa, estudante de Ciências da Computação. Tenho o compromisso desenvolver interfaces intuitivas e fáceis de utilizar, garantindo acessibilidade ao usuário.
-
-Além disso, minha missão é aproximar as pessoas da tecnologia, criando sites e aplicativos úteis para o seu dia a dia. 🚀✨ </p>
- 🔭 Sou desenvolvedora de software. <br> 
- 🌱 Estudo desenvolvimento web e suas APIs
+<h2 align="left">Olá, Muito Prazer!! 👋🏻<br><br>💡 Com 2 anos de experiência, crio soluções digitais que transformam ideias em interfaces acessíveis, rápidas e inovadoras.<br><br>📚 Apaixonada por tecnologia, meu foco é em desenvolvimento web, em especial,  front-end. Com isso, busco entregar a melhor experiência para o usuário e resultados agreguem valor ao mercado</h2>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LaisaAlb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LaisaAlb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -23,29 +15,24 @@ Além disso, minha missão é aproximar as pessoas da tecnologia, criando sites 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="Tailwind logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"  height="30" alt="Bootstrap logo"/>   
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-          
 </div>
 
 ###
 
 <div align="left">
-  <a href="laisaa275@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
- <a href="https://www.linkedin.com/in/laísa-albuquerque-777406271" target="_blank">
-   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  <a href="http://linkedin.com/in/la%C3%ADsa-albuquerque-777406271" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
-
 ###
-
