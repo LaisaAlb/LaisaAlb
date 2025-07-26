@@ -16,8 +16,10 @@
 <h1 align="center">Olá Dev👋</h1>
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2EF783&center=true&width=435&lines=Seja+bem-vindo!%E2%9C%A8)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0077FF&center=true&width=435&lines=Seja+bem-vindo!%E2%9C%A8)](https://git.io/typing-svg)
+
 </p>
+
 
 ***
 
@@ -112,12 +114,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=LaisaAlb&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LaisaAlb/LaisaAlb/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LaisaAlb/LaisaAlb/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LaisaAlb/LaisaAlb/output/pacman-contribution-graph.svg">
-</picture>
 
 
 <p align="left"></p>
