@@ -115,6 +115,8 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/LaisaAlb/LaisaAlb/output/snake.svg" alt="Snake animation" />
+
 <p align="left"></p>
 
 ###
