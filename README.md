@@ -13,8 +13,6 @@
   </a>
 </div>
 
-###
-
 <h1 align="center">Olá Dev👋</h1>
 
 ***
@@ -25,8 +23,8 @@
 ###
 
 <p align="left">Sou Laísa, Dev Júnior<br><br>
-  🔭 Hoje atuo como Desenvolvedora Front-End Júnior, trabalhando em uma empresa de tecnologia<br>
-  📚 Sigo explorando e aprendendo mais sobre o mundo da tecnologia e o desenvolvimento web<br>
+  🔭 Hoje atuo como Desenvolvedora de Software Júnior e teho 2+ de experiência no mercado<br>
+  📚 Sigo explorando e aprendendo mais sobre o mundo da tecnologia e desenvolvendo soluções eficazes e criativas web<br>
   ⚡ Nas horas vagas, gosto de colocar ideias em prática com projetos pessoais, estudar tendências e criar soluções que misturam criatividade, usabilidade e propósito.</p>
 
 ***
