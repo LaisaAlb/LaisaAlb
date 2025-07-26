@@ -17,21 +17,27 @@
 
 <h1 align="center">Olá Dev👋</h1>
 
-###
+<p></p>
+---
 
 <h3 align="left">👩‍💻  Sobre mim</h3>
 
 ###
 
-<p align="left">Sou Laísa, Dev Júnior<br><br>🔭 Hoje atuo como Desenvolvedora Front-End Júnior, trabalhando em uma empresa de tecnologia<br>📚 Sigo explorando e aprendendo mais sobre o mundo da tecnologia e o desenvolvimento web<br>⚡ Nas horas vagas, gosto de colocar ideias em prática com projetos pessoais, estudar tendências e criar soluções que misturam criatividade, usabilidade e propósito.</p>
+<p align="left">Sou Laísa, Dev Júnior<br><br>
+  🔭 Hoje atuo como Desenvolvedora Front-End Júnior, trabalhando em uma empresa de tecnologia<br>
+  📚 Sigo explorando e aprendendo mais sobre o mundo da tecnologia e o desenvolvimento web<br>
+  ⚡ Nas horas vagas, gosto de colocar ideias em prática com projetos pessoais, estudar tendências e criar soluções que misturam criatividade, usabilidade e propósito.</p>
 
-###
+<p></p>
+---
+
 
 <h3 align="left">👩🏻‍💻 Linguagens</h3>
 
 ###
 
-<h4 align="left">Front end</h4>
+<h3 align="left">Front end</h3>
 
 ###
 
@@ -55,7 +61,7 @@
 
 ###
 
-<h4 align="left">Back end</h4>
+<h3 align="left">Back end</h3>
 
 ###
 
@@ -79,7 +85,7 @@
 
 ###
 
-<p align="left">⚒️ Ferramentas</p>
+<h3 align="left">⚒️ Ferramentas</h3>
 
 ###
 
@@ -97,7 +103,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
+<p></p>
 ---
+
 
 <h3 align="left">🔥   Minhas Contribuições :</h3>
 
@@ -106,5 +114,9 @@
 </p>
 
 
+
+###
+
+<p align="left"></p>
 
 ###
