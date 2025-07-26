@@ -17,8 +17,8 @@
 
 <h1 align="center">Olá Dev👋</h1>
 
-<p></p>
----
+***
+
 
 <h3 align="left">👩‍💻  Sobre mim</h3>
 
@@ -29,9 +29,7 @@
   📚 Sigo explorando e aprendendo mais sobre o mundo da tecnologia e o desenvolvimento web<br>
   ⚡ Nas horas vagas, gosto de colocar ideias em prática com projetos pessoais, estudar tendências e criar soluções que misturam criatividade, usabilidade e propósito.</p>
 
-<p></p>
----
-
+***
 
 <h3 align="left">👩🏻‍💻 Linguagens</h3>
 
@@ -104,8 +102,8 @@
 </div>
 
 <p></p>
----
 
+***
 
 <h3 align="left">🔥   Minhas Contribuições :</h3>
 
