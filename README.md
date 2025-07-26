@@ -14,12 +14,6 @@
 </div>
 
 <h1 align="center">Olá Dev👋</h1>
-<p align="center">
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0077FF&center=true&width=435&lines=Seja+bem-vindo!%E2%9C%A8)](https://git.io/typing-svg)
-
-</p>
-
 
 ***
 
