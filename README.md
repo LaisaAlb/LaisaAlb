@@ -102,9 +102,9 @@
 <h3 align="left">🔥   Minhas Contribuições :</h3>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaisaAlb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaisaAlb&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://streak-stats.demolab.com/?user=LaisaAlb&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
+
 
 
 ###
