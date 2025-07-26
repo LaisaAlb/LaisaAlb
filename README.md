@@ -116,8 +116,9 @@
 ###
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LaisaAlb/github-snake/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/LaisaAlb/snk/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
+
 
 <p align="left"></p>
 
