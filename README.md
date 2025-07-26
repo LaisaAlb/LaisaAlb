@@ -97,7 +97,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
-#######
+---
 
 <h3 align="left">🔥   Minhas Contribuições :</h3>
 
