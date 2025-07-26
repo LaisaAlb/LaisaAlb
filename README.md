@@ -115,7 +115,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/LaisaAlb/LaisaAlb/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LaisaAlb/github-snake/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
 
 <p align="left"></p>
 
