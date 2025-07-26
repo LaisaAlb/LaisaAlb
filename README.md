@@ -13,8 +13,7 @@
   </a>
 </div>
 
-<h1 align="center">Olá Dev👋</h1>
-<p align="center" color="#002459">Seja bem vindo❤️</p>
+<h1 align="center">Olá Dev, seja bem vindo ❤️</h1>
 
 ***
 
